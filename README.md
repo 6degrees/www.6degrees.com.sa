@@ -37,4 +37,4 @@ $ npm install  save-dev sass sass-loader@10.1.1
 - [ ] semantic html
 - [ ] meta social elements
 - [ ] night/dark favicon
-- [ ] tailwindy
+- [X] tailwindify
