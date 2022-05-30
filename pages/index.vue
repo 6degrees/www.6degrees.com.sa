@@ -1,5 +1,9 @@
 <template>
-  <Home/>
+    <div class="index">
+        <SectionsPartners class="py-5" />
+        <SectionsContact class="py-5" />
+    </div>
+  
 </template>
 
 <script>
