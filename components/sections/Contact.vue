@@ -6,7 +6,7 @@
 					<h2>Contact Us</h2>
 					<p class="lead">You are fingers away from your technological future</p>
 				</div>
-				<div class="card-body px-5">
+				<div class="card-body">
 					<form target="_blank" action="https://formsubmit.co/mohannad@6degrees.com.sa" method="POST">
 						<input type="hidden" name="_next" :value="`${publicPath}/thanks`" />
 						<input type="text" name="_honey" style="display: none" />
