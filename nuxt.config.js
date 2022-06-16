@@ -171,7 +171,7 @@ export default {
 	},
 
 	env: {
-		baseUrl: process.env.BASE_URL || 'http://www.6degrees.com.sa'
+		baseUrl: process.env.BASE_URL || 'https://www.6degrees.com.sa'
 	},
 
 	humansTxt: {
