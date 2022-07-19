@@ -25,7 +25,7 @@ jobs:
       # Install and build NuxtJs website
       - name: Build NuxtJS website
         env:
-          BASE_URL: "https://www.6d.com.sa"
+          BASE_URL: "http://www.6degrees.com.sa/"
         run: |
           npm install 
           npm run generate
