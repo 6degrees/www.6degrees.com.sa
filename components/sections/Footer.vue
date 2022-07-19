@@ -11,8 +11,8 @@
             <p class="mb-0">6919 Prince Turki Road, Al Corinch, Al Khobar, Eastern Region 34413, Saudi Arabia</p>
             <ul class="list-inline mt-4">
                     <li class="list-inline-item"><a target="_blank" href="https://stats.uptimerobot.com/M6Z3vI2YYB" class="text-white">Services Status</a></li>
-                    <li class="list-inline-item"><a href="terms-and-conditions" class="text-white">Terms & Conditions</a></li>
-                    <li class="list-inline-item"><a href="privacy-policy" class="text-white">Privacy Policy</a></li>
+                    <li class="list-inline-item"><a href="/terms-and-conditions" class="text-white">Terms & Conditions</a></li>
+                    <li class="list-inline-item"><a href="/privacy-policy" class="text-white">Privacy Policy</a></li>
                 </ul>
         </div>
     </footer>
