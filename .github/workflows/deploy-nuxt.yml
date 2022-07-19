@@ -24,6 +24,8 @@ jobs:
           node-version: "16.14"
       # Install and build NuxtJs website
       - name: Build NuxtJS website
+        env:
+          BASE_URL: "https://www.6d.com.sa"
         run: |
           npm install 
           npm run generate
@@ -34,4 +36,5 @@ jobs:
           target_branch: gh-pages
           build_dir: dist
         env:
-          BASE_URL: "https://www.6d.com.sa"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
