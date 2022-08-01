@@ -6,12 +6,12 @@
                 <p class="lead">You are clicks away from your technological future</p>
             </div>
 
-            <div class="row row-cols-1">
+            <div class="row row-cols-1 ">
                 <div class="col col-md-6 px-4">
                     <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/6FxcygmIqiOLw3yJbcPSFhs2Hntf0KMmgg3NwvCvYI7aGT2E4bMKALVs28jEYHPTqP"><script src="https://webforms.pipedrive.com/f/loader"></script></div>
                 </div>
 
-                <div class="col col-md-4 offset-md-1 pt-5">
+                <div class="col col-md-5 offset-md-1 ">
                     <div class="contact-info ps-4">
                         <h6 class="mt-4"><i class="bi bi-phone"></i> Phone Number</h6>
                         <a dir="ltr" href="tel:+966-558412255">+966 55 841 2255</a>
