@@ -24,8 +24,8 @@
            <ul>
             <li class="list-inline-item"><a target="_blank" href="https://stats.uptimerobot.com/M6Z3vI2YYB" class="text-white">Services Status</a></li>
                     <li class="list-inline-item"><a href="https://wiki.6degrees.com.sa/terms-of-use" class="text-white">Terms & Conditions</a></li>
-                    <li class="list-inline-item"><a href="/privacy-policy" class="text-white">Privacy Policy</a></li>   
-                    <li class="list-inline-item"><a href="https://wiki.6degrees.com.sa/privacy-policy" class="text-white">Documentation</a></li>  
+                    <li class="list-inline-item"><a href="https://wiki.6degrees.com.sa/privacy-policy" class="text-white">Privacy Policy</a></li>   
+                    <li class="list-inline-item"><a href="https://wiki.6degrees.com.sa" class="text-white">Documentation</a></li>  
             </ul>
         </div>
       </div>
