@@ -1,59 +1,42 @@
 <template>
-	<section id="contact" class="text-dark">
-		<div class="container">
-			<div class="card">
-				<div class="my-3 py-3 text-center">
-					<h2>Contact Us</h2>
-					<p class="lead">You are fingers away from your technological future</p>
-				</div>
-				<div class="card-body">
-					<form target="_blank" action="https://formsubmit.co/mohannad@6degrees.com.sa" method="POST">
-						<input type="hidden" name="_next" :value="`${publicPath}/thanks`" />
-						<input type="text" name="_honey" style="display: none" />
-						
-						
-						<div class="form-floating mb-3">
-							<input name="name" type="text" class="form-control" id="floatingName" placeholder="Name" />
-							<label for="floatingName">Your Name</label>
-						</div>
+    <section id="contact" class="text-dark">
+        <div class="container card py-5 ">
+            <div class="text-center">
+                <h2>Contact Us</h2>
+                <p class="lead">You are clicks away from your technological future</p>
+            </div>
 
-                        <div class="form-floating mb-3">
-							<input name="email" type="email" class="form-control" id="floatingInput" placeholder="name@example.com" required />
-							<label for="floatingInput">Your E-Mail</label>
-                            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-						</div>
+            <div class="row row-cols-1 ">
+                <div class="col col-md-6 px-4">
+                    <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/6FxcygmIqiOLw3yJbcPSFhs2Hntf0KMmgg3NwvCvYI7aGT2E4bMKALVs28jEYHPTqP"><script src="https://webforms.pipedrive.com/f/loader"></script></div>
+                </div>
 
-						<div class="form-floating mb-3">
-							<input name="mobile" type="text" class="form-control" id="floatingMobile" placeholder="Mobile" required />
-							<label for="floatingMobile">Your Phone</label>
-						</div>
+                <div class="col col-md-5 offset-md-1 px-4">
+                    <div class="contact-info ps-4">
+                        <h6 class="mt-4"><i class="bi bi-phone"></i> Phone Number</h6>
+                        <a dir="ltr" href="tel:+966-558412255">+966 55 841 2255</a>
 
-						<div class="form-floating mb-3">
-							<textarea name="message" class="form-control" placeholder="Leave a comment here" style="height: 100px" id="floatingMessage"></textarea>
-							<label for="floatingMessage">Your Message</label>
-						</div>
+                        <h6 class="mt-4"><i class="bi bi-envelope"></i> Email Address</h6>
+                        <a dir="ltr" href="mailto:contact@6degrees.com.sa">contact@6degrees.com.sa</a>
 
-						<div class="form-floating mb-3">
-							<div class="d-grid gap-2">
-								<button class="btn btn-primary btn-lg" type="submit">Send</button>
-							</div>
-						</div>
-					</form>
-				</div>
-			</div>
-		</div>
-	</section>
+                        <h6 class="mt-4"><i class="bi bi-globe"></i> Address</h6>
+                        <p>6919 Prince Turki Road, Corniche Khobar, Eastern Region 34413, Saudi Arabia</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </template>
 
 <script>
-	export default {
-        data() {
-			return {
-                publicPath: process.env.baseUrl,
-				selected: ''
-			};
-		}
-    };
+export default {
+    data() {
+        return {
+            publicPath: process.env.baseUrl,
+            selected: ''
+        };
+    }
+};
 </script>
 
 <style>

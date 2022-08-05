@@ -36,17 +36,25 @@ body::after{
     background-size: cover;
     z-index: -1;
 }
+section#contact{
+.card{
+    min-width:50%;
+    max-width:fit-content;
+  
+}
+}
 
 section#partners{
     .partner{
         height: 100%;
-        .card{
-            height: 100%;
             img{
-                max-height: 100px;
+                max-height: 150px;
                 max-width: 100%;
+                
             }
         }
         
+        
     }
-}
+    
+    
