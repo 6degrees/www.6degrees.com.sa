@@ -14,17 +14,27 @@
     --secondary-color: #000F29;
     --secondary-color-rgb: 0, 15, 41;
     --body-color: white;
-
 }
+
 body{
     background: rgb(var(--primary-color-rgb));
-    background: -moz-linear-gradient(327deg, rgba(var(--primary-color-rgb),1) 0%, rgba(var(--secondary-color-rgb),1) 100%);
-    background: -webkit-linear-gradient(327deg, rgba(var(--primary-color-rgb),1) 0%, rgba(var(--secondary-color-rgb),1) 100%);
-    background: linear-gradient(327deg, rgba(var(--primary-color-rgb),1) 0%, rgba(var(--secondary-color-rgb),1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="calc(--primary-color)",endColorstr="#calc(--secondary-color)",GradientType=1);
+    background: -moz-linear-gradient(327deg, 
+                rgba(var(--primary-color-rgb),1) 0%, 
+                rgba(var(--secondary-color-rgb),1) 100%);
+    background: -webkit-linear-gradient(327deg, 
+                rgba(var(--primary-color-rgb),1) 0%, 
+                rgba(var(--secondary-color-rgb),1) 100%);
+    background: linear-gradient(327deg, 
+                rgba(var(--primary-color-rgb),1) 0%, 
+                rgba(var(--secondary-color-rgb),1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(
+                startColorstr="calc(--primary-color)",
+                endColorstr="#calc(--secondary-color)",
+                GradientType=1);
     min-height:100vh;
     color:var(--body-color);
 }
+
 body::after{
     content: '';
     position:fixed;
