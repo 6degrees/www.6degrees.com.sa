@@ -6,8 +6,8 @@
               <partner image="efficiencycenter.png" name="Efficiency Center - Shared Space Management" link="https://www.efficiencys.com.sa" />
               <partner image="deets.webp" name="Deets.Pro - Smart Business Card" link="https://www.deets.pro" />
               <partner image="burooj.png" name="Burooj Efficiency - Building Management" link="https://www.burooj.pro" />
-              <partner image="zahma.webp" name="Zahma O La - Your Eyes on the causeway" link="https://www.zahmaola.com" />
-              
+              <partner image="farisperfume.webp" name="Faris Perfume" link="https://farisperfumesa.com/" />
+
           </div>
       </div>
   </section>
