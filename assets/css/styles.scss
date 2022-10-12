@@ -18,14 +18,14 @@
 
 body{
     background: rgb(var(--primary-color-rgb));
-    background: -moz-linear-gradient(327deg, 
-                rgba(var(--primary-color-rgb),1) 0%, 
+    background: -moz-linear-gradient(327deg,
+                rgba(var(--primary-color-rgb),1) 0%,
                 rgba(var(--secondary-color-rgb),1) 100%);
-    background: -webkit-linear-gradient(327deg, 
-                rgba(var(--primary-color-rgb),1) 0%, 
+    background: -webkit-linear-gradient(327deg,
+                rgba(var(--primary-color-rgb),1) 0%,
                 rgba(var(--secondary-color-rgb),1) 100%);
-    background: linear-gradient(327deg, 
-                rgba(var(--primary-color-rgb),1) 0%, 
+    background: linear-gradient(327deg,
+                rgba(var(--primary-color-rgb),1) 0%,
                 rgba(var(--secondary-color-rgb),1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(
                 startColorstr="calc(--primary-color)",
@@ -50,7 +50,7 @@ section#contact{
 .card{
     min-width:50%;
     max-width:fit-content;
-  
+
 }
 }
 
@@ -60,11 +60,11 @@ section#partners{
             img{
                 max-height: 150px;
                 max-width: 100%;
-                
+
             }
         }
-        
-        
+
+
     }
-    
-    
+
+

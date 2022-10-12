@@ -6,7 +6,7 @@
               <partner image="efficiencycenter.png" name="Efficiency Center - Shared Space Management" link="https://www.efficiencys.com.sa" />
               <partner image="deets.webp" name="Deets.Pro - Smart Business Card" link="https://www.deets.pro" />
               <partner image="burooj.png" name="Burooj Efficiency - Building Management" link="https://www.burooj.pro" />
-              <partner image="farisperfume.webp" name="Faris Perfume" link="https://farisperfumesa.com/" />
+              <partner style="height:150px ; width:150px; padding-top:20px" image="farisperfume.png" name="Faris Perfume" link="https://farisperfumesa.com/" />
 
           </div>
       </div>
