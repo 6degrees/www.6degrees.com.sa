@@ -1,10 +1,8 @@
 <template>
-  <div class="col partner">
-        <div class="">
-        <div class="card-body text-dark text-center">
-            <a :href="link"><img :alt="name" :src="require(`~/assets/images/partners/${image}`)" /></a>
-        </div>
-        </div>
+  <div class="col partner text-center justify-content-center align-items-center">
+    <a :href="link" class="d-flex justify-content-center align-items-center">
+        <img style="max-width:80%; max-height:100px;" :alt="name" :src="require(`~/assets/images/partners/${image}`)" />
+    </a>
     </div>
 </template>
 

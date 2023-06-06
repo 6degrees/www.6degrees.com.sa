@@ -46,12 +46,13 @@ body::after{
     background-size: cover;
     z-index: -1;
 }
-section#contact{
-.card{
-    min-width:50%;
-    max-width:fit-content;
 
-}
+section#contact{
+    .card{
+        min-width:50%;
+        max-width:fit-content;
+
+    }
 }
 
 section#partners{
@@ -59,7 +60,7 @@ section#partners{
         height: 100%;
             img{
                 max-height: 150px;
-                max-width: 100%;
+                
 
             }
         }
