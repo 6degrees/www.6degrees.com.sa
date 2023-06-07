@@ -1,5 +1,5 @@
 <template>
-    <div class="index py-5">
+    <div class="index">
         <SectionsPartners class="py-5 mb-5" />
         <SectionsContact class="py-5" />
     </div>
