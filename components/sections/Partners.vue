@@ -5,6 +5,8 @@
 				<h2 class="fw-bolder">Our Partners</h2>
 			</div>
 			<div class="row row-cols-2 row-cols-md-4 g-5 justify-content-center align-items-center py-md-5">
+				<partner image="saudiaramco.webp" name="Saudi Aramco" link="https://www.aramco.com/" />
+				<partner image="ithra.webp" name="Ithra" link="https://www.ithra.com/" />
 				<partner image="satorp.webp" name="Satorp" link="https://www.satorp.com/" />
 				<partner image="farisperfume.webp" name="Faris Perfume" link="https://farisperfumesa.com/" />
 				<partner image="zahmaola.webp" name="Zahma O La" link="https://zahmaola.com/" />
