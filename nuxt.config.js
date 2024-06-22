@@ -43,7 +43,9 @@ export default {
 			{rel: 'icon',type: 'image/png',href: '/assets/images/favicon.png'}
 		],
 		script:[
-			{ src: 'https://webforms.pipedrive.com/f/loader'},			 
+			{ src: 'https://webforms.pipedrive.com/f/loader'},
+			// add this <script defer src="https://umami.monitoring.6d.com.sa/script.js" data-website-id="326eb2ef-0594-48dc-ac5a-9a2472031389"></script>
+			{ src: 'https://umami.monitoring.6d.com.sa/script.js',defer:true, 'data-website-id':'326eb2ef-0594-48dc-ac5a-9a2472031389'}			 
 		]
 	},
 
