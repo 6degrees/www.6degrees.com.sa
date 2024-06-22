@@ -45,7 +45,9 @@ export default {
 		script:[
 			{ src: 'https://webforms.pipedrive.com/f/loader'},
 			// add this <script defer src="https://umami.monitoring.6d.com.sa/script.js" data-website-id="326eb2ef-0594-48dc-ac5a-9a2472031389"></script>
-			{ src: 'https://umami.monitoring.6d.com.sa/script.js',defer:true, 'data-website-id':'326eb2ef-0594-48dc-ac5a-9a2472031389'}			 
+			{ src: 'https://umami.monitoring.6d.com.sa/script.js',defer:true, 'data-website-id':'326eb2ef-0594-48dc-ac5a-9a2472031389'},		 
+			// and this <script defer data-domain="6degrees.com.sa" src="https://plausible.monitoring.6d.com.sa/js/script.js"></script>
+			{ src: 'https://plausible.monitoring.6d.com.sa/js/script.js',defer:true,'data-domain':'6degrees.com.sa'}
 		]
 	},
 
