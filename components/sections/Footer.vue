@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col col-12 col-md-6">
 					<ul class="px-0">
-						<li class="list-inline-item"><a target="_blank" href="https://up.monitoring.6d.com.sa/status/main" class="text-white">Services Status</a></li>
+						<li class="list-inline-item"><a target="_blank" href="https://up.6d.com.sa/status/main" class="text-white">Services Status</a></li>
 						<li class="list-inline-item"><a href="https://wiki.6degrees.com.sa/terms-of-use" class="text-white">Terms</a></li>
 						<li class="list-inline-item"><a href="https://wiki.6degrees.com.sa/privacy-policy" class="text-white">Privacy</a></li>
 						<li class="list-inline-item"><a href="https://wiki.6degrees.com.sa" class="text-white">Docs</a></li>
