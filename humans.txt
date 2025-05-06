@@ -1,0 +1,18 @@
+/* BACKSTAGE */
+6 Degrees Founder: Mohannad F. Otaibi
+From: Khobar, Saudi Arabia
+Twitter: @6degrees_sa
+6 Degrees: https://www.6degrees.com.sa
+/* SITE */
+Last update: 05/06/2025
+Standards: HTML5, CSS3, Javascript
+Components: VueJs
+Software: NuxtJs
+Language: English/Arabic
+Doctype: HTML5
+
+/* BACKSTAGE */
+HumansTxt Plugin developer: Luca Iaconelli
+From: Faenza, Italy
+Twitter: @luxdamore
+Instagram: https://www.instagram.com/luxdamore
